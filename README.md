@@ -5,20 +5,13 @@ If you find any combination that works please let me know.
 <BR /><BR />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
-<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/Python-DeadSpaceRemakeCodeGenerator
-">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/Python-DeadSpaceRemakeCodeGenerator
-">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/Python-DeadSpaceRemakeCodeGenerator
-/total">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/Python-DeadSpaceRemakeCodeGenerator
-">
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/Python-DeadSpaceRemakeCodeGenerator
-">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/Python-DeadSpaceRemakeCodeGenerator
-">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/Python-DeadSpaceRemakeCodeGenerator
-">
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/Python-DeadSpaceRemakeCodeGenerator">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/Python-DeadSpaceRemakeCodeGenerator">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/Python-DeadSpaceRemakeCodeGenerator/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/Python-DeadSpaceRemakeCodeGenerator">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/Python-DeadSpaceRemakeCodeGenerator">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/Python-DeadSpaceRemakeCodeGenerator">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/Python-DeadSpaceRemakeCodeGenerator">
 
 
 
